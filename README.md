@@ -3,10 +3,10 @@ This repository contains **Python code and notes** related to data analysis / da
 The goal of this project is to practice, document, and apply core techniques such as data cleaning, analysis, visualization, and basic modeling.
 
 ---
-##  Tools & Technologies
-- Python  
-- pandas, numpy  
-- matplotlib, seaborn  
+##  Tools & Technologies used
+- Visual Studio Code
 - Jupyter Notebook
-
-- 
+- Python  
+- pandas, numpy
+- matplotlib, seaborn  
+  
