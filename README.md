@@ -8,5 +8,5 @@ The goal of this project is to practice, document, and apply core techniques suc
 - Jupyter Notebook
 - Python  
 - pandas, numpy
-- matplotlib, seaborn  
+- matplotlib, seaborn (included in pandas file) 
   
